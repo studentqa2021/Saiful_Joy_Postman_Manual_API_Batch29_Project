@@ -1,0 +1,47 @@
+{
+	"info": {
+		"_postman_id": "8018a13c-2073-4230-9512-af047b0569b1",
+		"name": "Manual_API_Testing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25066881"
+	},
+	"item": [
+		{
+			"name": "CURD Function Test",
+			"item": [
+				{
+					"name": "Creat",
+					"request": {
+						"method": "POST",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Update",
+					"request": {
+						"method": "PUT",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Read",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Delet",
+					"request": {
+						"method": "DELETE",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
